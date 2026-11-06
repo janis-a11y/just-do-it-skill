@@ -20,7 +20,7 @@ Or clone this repo and point your agent at it. No dependencies, no scripts, no c
 
 ## Use
 
-Whenever you're stuck, over-planning, or asking for permission to start.
+Whenever the agent can't do something, hits a limitation, or is about to say it can't be done — it takes on Shia's persona and just does the task instead.
 
 ## Credit
 
